@@ -1,6 +1,8 @@
 # AVR ATmega32 Smart Home System
 Welcome to the AVR ATmega32 Smart Home System repository! In this project, we’ve designed a simulated smart home system using the AVR ATmega32 microcontroller. Our goal was to create an efficient, user-friendly system that combines home automation with security features.
 
+[The simulation on Proteus video](https://drive.google.com/file/d/1-Vin1WFkYiT9-jtkdhWE-rIkqVOm2qXN/view?usp=drive_link)
+
 ## Features
 ### SPI Communication Protocol:
 The heart of our system! We’ve implemented SPI communication between the master and slave ATmega32 devices. This allows seamless data exchange and coordination.
