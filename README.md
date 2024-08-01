@@ -34,4 +34,4 @@ Flash the compiled binary onto your ATmega32.
 Open Proteus and load your circuit design.
 Simulate the smart home system to observe its behavior.
 
-![protues simulation](https://drive.google.com/file/d/19Pxwx8EI_ayGb2V8GWAzR-9Nez7NPU8H/view?usp=drive_link)
+![protues simulation](https://github.com/user-attachments/assets/79be5ce7-97e6-4440-92f5-adc11a788e5c)
